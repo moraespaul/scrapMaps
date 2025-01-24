@@ -1,0 +1,684 @@
+('D:\\Programas Testes\\21 - ScrapMapsFlet\\ScrapMaps\\dist\\scrapmaps.exe',
+ False,
+ False,
+ False,
+ 'D:\\Programas Testes\\21 - '
+ 'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\Programas Testes\\21 - '
+ 'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\scrapmaps.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_localhost_fletd',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_cli\\__pyinstaller\\rthooks\\pyi_rth_localhost_fletd.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('main',
+   'D:\\Programas Testes\\21 - ScrapMapsFlet\\ScrapMaps\\main.py',
+   'PYSOURCE'),
+  ('selenium\\webdriver\\common\\windows\\selenium-manager.exe',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\windows\\selenium-manager.exe',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libmpv-2.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libmpv-2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\record_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\record_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140d.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\window_manager_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_manager_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\rive_common_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\rive_common_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-private-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vk_swiftshader.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vk_swiftshader.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\zlib.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\zlib.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\flutter_windows.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flutter_windows.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libGLESv2.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libGLESv2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vulkan-1.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vulkan-1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vccorlib140d.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\d3dcompiler_47.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libEGL.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libEGL.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140_1.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libc++.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libc++.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\ucrtbase.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbase.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vccorlib140.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_2.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\flet.exe',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flet.exe',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140_1d.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\concrt140.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\concrt140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\ucrtbased.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbased.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_1.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\window_to_front_plugin.dll',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_to_front_plugin.dll',
+   'BINARY'),
+  ('python311.dll',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp311-win_amd64.pyd',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\build\\scrapmaps\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\getAttribute.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'DATA'),
+  ('selenium\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v131\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v131\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\linux\\selenium-manager',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v130\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v130\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v129\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v129\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\findElements.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\mutation-listener.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\wakelock_plus\\assets\\no_sleep.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\wakelock_plus\\assets\\no_sleep.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\app.so',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\app.so',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\icudtl.dat',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\icudtl.dat',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.json',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.json',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-24.3.0.dist-info\\RECORD',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\attrs-24.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-24.3.0.dist-info\\WHEEL',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\attrs-24.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\LICENSE.txt',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\entry_points.txt',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('attrs-24.3.0.dist-info\\INSTALLER',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\attrs-24.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\INSTALLER',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\METADATA',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-24.3.0.dist-info\\METADATA',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\attrs-24.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\WHEEL',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-24.3.0.dist-info\\licenses\\LICENSE',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\attrs-24.3.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('wheel-0.45.1.dist-info\\RECORD',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\wheel-0.45.1.dist-info\\RECORD',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1737722007,
+ [('runw.exe',
+   'D:\\Programas Testes\\21 - '
+   'ScrapMapsFlet\\ScrapMaps\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\paul.moraes\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll')

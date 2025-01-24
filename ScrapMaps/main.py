@@ -20,7 +20,7 @@ def setup_selenium():
     driver = webdriver.Chrome(service=service, options=options)
 
 
-def scroll_in_container(page,container, pause_time=2):
+def scroll_in_container(page,container, pause_time=4):
     status.value = f"Coletando informações..."
     page.update()
     last_height = driver.execute_script("return arguments[0].scrollHeight", container)
@@ -67,6 +67,7 @@ def scrap_data(page):
 
 
 def pesquisar(page, cidade):
+    result_table.rows.clear()
     if not cidade:
         status.value = "Por favor, insira o nome de uma cidade!"
         page.update()
@@ -129,6 +130,7 @@ def main(page: ft.Page):
     page.window.resizable = True
     #     # page.window.top = 300
     #     # page.window.left = 500
+    page.theme_mode = ft.ThemeMode.DARK
 
     page.title = "Dovale Chaves - ScrapMaps"
     page.bgcolor = "#070042"
@@ -136,8 +138,8 @@ def main(page: ft.Page):
     cidade = ft.TextField(
         col=7,
         label="Cidade",
-        color=ft.colors.WHITE,
-        bgcolor=ft.colors.BLACK,
+        color=ft.Colors.WHITE,
+        bgcolor=ft.Colors.BLACK,
         border_color="#789AF4",
         tooltip="Insira a cidade para buscar chaveiros.",
         on_submit=lambda e: pesquisar(page, cidade.value)
@@ -146,17 +148,17 @@ def main(page: ft.Page):
     pesquisar_btn = ft.ElevatedButton(
         col=5,
         text="Pesquisar",
-        icon=ft.icons.SEARCH,
+        icon=ft.Icons.SEARCH,
         on_click=lambda _: pesquisar(page, cidade.value)
     )
 
     salvar_btn = ft.ElevatedButton(
         text="Salvar CSV",
-        icon=ft.icons.SAVE,
+        icon=ft.Icons.SAVE,
         on_click=lambda _: file_picker.save_file()
     )
 
-    status = ft.Text(value="Status: Aguardando consulta...", color=ft.colors.WHITE)
+    status = ft.Text(value="Status: Aguardando consulta...", color=ft.Colors.WHITE)
 
     result_table = ft.DataTable(
         columns=[
@@ -184,7 +186,7 @@ def main(page: ft.Page):
                         ft.Text(
                             value="Dovale - ScrapMaps",
                             size=30,
-                            color=ft.colors.WHITE)
+                            color=ft.Colors.WHITE)
                     ]
                 ),
                 ft.ResponsiveRow(
